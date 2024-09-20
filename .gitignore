@@ -1,0 +1,16 @@
+# __MACOSX
+**/__MACOSX/**
+
+# api
+**/api/**
+
+# build
+**/.nuxt/**
+
+# node_modules
+**/node_modules/**
+
+# json
+package-lock.json
+package.json
+node_modules
