@@ -1,0 +1,560 @@
+[
+    {
+        "id": "0101",
+        "artist_name": "Goose house",
+        "music_name": "オトノナルホウヘ",
+        "time": "120"
+    },
+    {
+        "id": "0103",
+        "artist_name": "新しい学校のリーダーズ",
+        "music_name": "OTONABLUE",
+        "time": "120"
+    },
+    {
+        "id": "0104",
+        "artist_name": "MONGOL800",
+        "music_name": "小さな恋のうた",
+        "time": "120"
+    },
+    {
+        "id": "0105",
+        "artist_name": "すぎやまこういち",
+        "music_name": "交響組曲「ドラゴンクエスト」",
+        "time": "120"
+    },
+    {
+        "id": "0106",
+        "artist_name": "ハルカミライ",
+        "music_name": "夏のまほろ",
+        "time": "120"
+    },
+    {
+        "id": "0107",
+        "artist_name": "Syudou",
+        "music_name": "ギャンブル",
+        "time": "120"
+    },
+    {
+        "id": "0109",
+        "artist_name": "乃木坂46",
+        "music_name": "君の名は希望",
+        "time": "120"
+    },
+    {
+        "id": "0110",
+        "artist_name": "Official髭男dism",
+        "music_name": "115万キロのフィルム",
+        "time": "120"
+    },
+    {
+        "id": "0111",
+        "artist_name": "DECO*27",
+        "music_name": "アニマル",
+        "time": "120"
+    },
+    {
+        "id": "0112",
+        "artist_name": "DREAMS COME TRUE",
+        "music_name": "大阪LOVER",
+        "time": "120"
+    },
+    {
+        "id": "0201",
+        "artist_name": "ヤバイTシャツ屋さん",
+        "music_name": "無線LANばり便利",
+        "time": "120"
+    },
+    {
+        "id": "0202",
+        "artist_name": "ハル&チッチ歌族",
+        "music_name": "お肉食べようのうた",
+        "time": "120"
+    },
+    {
+        "id": "0203",
+        "artist_name": "米津玄師",
+        "music_name": "Lemon",
+        "time": "120"
+    },
+    {
+        "id": "0204",
+        "artist_name": "クマリデパート",
+        "music_name": "渋谷スクランブルLOVE",
+        "time": "120"
+    },
+    {
+        "id": "0205",
+        "artist_name": "スムルース",
+        "music_name": "商店街とあなた",
+        "time": "120"
+    },
+    {
+        "id": "0206",
+        "artist_name": "ブリーフ&トランクス",
+        "music_name": "コンビニ",
+        "time": "120"
+    },
+    {
+        "id": "0207",
+        "artist_name": "優里",
+        "music_name": "シャッター",
+        "time": "120"
+    },
+    {
+        "id": "0208",
+        "artist_name": "BTS",
+        "music_name": "Permission to Dance",
+        "time": "187"
+    },
+    {
+        "id": "0209",
+        "artist_name": "福山雅治",
+        "music_name": "家族になろうよ",
+        "time": "120"
+    },
+    {
+        "id": "0210",
+        "artist_name": "ONE OK ROCK",
+        "music_name": "One Way Ticket",
+        "time": "120"
+    },
+    {
+        "id": "0211",
+        "artist_name": "和ぬか",
+        "music_name": "ブラウニー",
+        "time": "120"
+    },
+    {
+        "id": "0212",
+        "artist_name": "電波少女",
+        "music_name": "SKIT2",
+        "time": "120"
+    },
+    {
+        "id": "0213",
+        "artist_name": "ウインズ平阪",
+        "music_name": "君の元気を守りたい",
+        "time": "120"
+    },
+    {
+        "id": "0301",
+        "artist_name": "COFFEE MUSIC MODE",
+        "music_name": "朝カフェBGM",
+        "time": "120"
+    },
+    {
+        "id": "0302",
+        "artist_name": "槇原敬之",
+        "music_name": "ファミレス",
+        "time": "120"
+    },
+    {
+        "id": "0304",
+        "artist_name": "Official髭男dism",
+        "music_name": "ミックスナッツ",
+        "time": "120"
+    },
+    {
+        "id": "0305",
+        "artist_name": "NEGI☆U",
+        "music_name": "寿司☆でしょ！",
+        "time": "120"
+    },
+    {
+        "id": "0306",
+        "artist_name": "みるくかふぇ",
+        "music_name": "いっぱい食べる君が好き",
+        "time": "120"
+    },
+    {
+        "id": "0307",
+        "artist_name": "MONGOL800",
+        "music_name": "ホルモン",
+        "time": "120"
+    },
+    {
+        "id": "0309",
+        "artist_name": "シブがき隊",
+        "music_name": "スシ食いねェ！",
+        "time": "120"
+    },
+    {
+        "id": "0310",
+        "artist_name": "米津玄師",
+        "music_name": "クランベリーとパンケーキ",
+        "time": "120"
+    },
+    {
+        "id": "0311",
+        "artist_name": "中島みゆき",
+        "music_name": "蕎麦屋",
+        "time": "120"
+    },
+    {
+        "id": "0313",
+        "artist_name": "SEKAI NO OWARI",
+        "music_name": "RPG",
+        "time": "120"
+    },
+    {
+        "id": "0401",
+        "artist_name": "平松愛理",
+        "music_name": "部屋とYシャツと私",
+        "time": "308"
+    },
+    {
+        "id": "0402",
+        "artist_name": "TWICE",
+        "music_name": "Feel Special",
+        "time": "216"
+    },
+    {
+        "id": "0403",
+        "artist_name": "プリンセス プリンセス",
+        "music_name": "Diamond",
+        "time": "292"
+    },
+    {
+        "id": "0404",
+        "artist_name": "Aiko",
+        "music_name": "かばん",
+        "time": "320"
+    },
+    {
+        "id": "0405",
+        "artist_name": "エド・シーラン",
+        "music_name": "Bad Habits",
+        "time": "320"
+    },
+    {
+        "id": "0501",
+        "artist_name": "服部 隆之",
+        "music_name": "テーマ・オブ・半沢直樹",
+        "time": "240"
+    },
+    {
+        "id": "0502",
+        "artist_name": "ニコロ・パガニーニ",
+        "music_name": "ラ・カンパネラ",
+        "time": "240"
+    },
+    {
+        "id": "0503",
+        "artist_name": "Mr.Children",
+        "music_name": "HANABI",
+        "time": "240"
+    },
+    {
+        "id": "0504",
+        "artist_name": "フィンガー5",
+        "music_name": "学園天国",
+        "time": "156"
+    },
+    {
+        "id": "0505",
+        "artist_name": "Miwa",
+        "music_name": "キットカナウ",
+        "time": "240"
+    },
+    {
+        "id": "0506",
+        "artist_name": "久石譲",
+        "music_name": "空とぶ宅急便",
+        "time": "240"
+    },
+    {
+        "id": "0507",
+        "artist_name": "幾田りら",
+        "music_name": "Answer",
+        "time": "240"
+    },
+    {
+        "id": "0508",
+        "artist_name": "優里",
+        "music_name": "レオ",
+        "time": "240"
+    },
+    {
+        "id": "0509",
+        "artist_name": "Mrs. GREEN APPLE",
+        "music_name": "ケセラセラ",
+        "time": "240"
+    },
+    {
+        "id": "0510",
+        "artist_name": "RADWIMPS",
+        "music_name": "あいたい",
+        "time": "240"
+    },
+    {
+        "id": "0511",
+        "artist_name": "MISIA",
+        "music_name": "明日へ",
+        "time": "240"
+    },
+    {
+        "id": "0512",
+        "artist_name": "Back number",
+        "music_name": "手紙",
+        "time": "240"
+    },
+    {
+        "id": "0513",
+        "artist_name": "おさるのうた",
+        "music_name": "セイカツ",
+        "time": "240"
+    },
+    {
+        "id": "0514",
+        "artist_name": "SEVENTEEN",
+        "music_name": "Home",
+        "time": "202"
+    },
+    {
+        "id": "0515",
+        "artist_name": "植村花菜",
+        "music_name": "トイレの神様",
+        "time": "600"
+    },
+    {
+        "id": "0516",
+        "artist_name": "ATEEZ",
+        "music_name": "Work",
+        "time": "173"
+    },
+    {
+        "id": "0517",
+        "artist_name": "夏川りみ",
+        "music_name": "涙そうそう",
+        "time": "255"
+    },
+    {
+        "id": "0518",
+        "artist_name": "服部 隆之",
+        "music_name": "テーマ・オブ・半沢直樹",
+        "time": "240"
+    },
+    {
+        "id": "0519",
+        "artist_name": "マカロニえんぴつ",
+        "music_name": "洗濯機と君とラヂオ",
+        "time": "240"
+    },
+    {
+        "id": "0603",
+        "artist_name": "久石譲",
+        "music_name": "Summer",
+        "time": "226"
+    },
+    {
+        "id": "0604",
+        "artist_name": "チャットモンチー",
+        "music_name": "テルマエ・ロマン",
+        "time": "186"
+    },
+    {
+        "id": "0605",
+        "artist_name": "久石譲",
+        "music_name": "風のとおり道",
+        "time": "226"
+    },
+    {
+        "id": "0606",
+        "artist_name": "乃木坂46",
+        "music_name": "銭湯ラプソディー",
+        "time": "226"
+    },
+    {
+        "id": "0607",
+        "artist_name": "Yiruma",
+        "music_name": "River Flows In You",
+        "time": "240"
+    },
+    {
+        "id": "0608",
+        "artist_name": "倖田來未",
+        "music_name": "HOTEL",
+        "time": "226"
+    },
+    {
+        "id": "0701",
+        "artist_name": "Taylor Swift",
+        "music_name": "Welcome to New York",
+        "time": "213"
+    },
+    {
+        "id": "0702",
+        "artist_name": "森山直太朗",
+        "music_name": "さくら(独唱)",
+        "time": "213"
+    },
+    {
+        "id": "0703",
+        "artist_name": "ATEEZ",
+        "music_name": "Work",
+        "time": "173"
+    },
+    {
+        "id": "0705",
+        "artist_name": "森山直太朗",
+        "music_name": "さくら（独唱）",
+        "time": "256"
+    },
+    {
+        "id": "0706",
+        "artist_name": "Alexandros",
+        "music_name": "ワタリドリ",
+        "time": "253"
+    },
+    {
+        "id": "0707",
+        "artist_name": "WANIMA",
+        "music_name": "やってみよう",
+        "time": "165"
+    },
+    {
+        "id": "0708",
+        "artist_name": "ゆず",
+        "music_name": "夏色",
+        "time": "201"
+    },
+    {
+        "id": "0709",
+        "artist_name": "BUMP OF CHICKEN",
+        "music_name": "SOUVENIR",
+        "time": "267"
+    },
+    {
+        "id": "0710",
+        "artist_name": "あいみょん",
+        "music_name": "ハルノヒ",
+        "time": "327"
+    },
+    {
+        "id": "0711",
+        "artist_name": "宇多田ヒカル",
+        "music_name": "道",
+        "time": "216"
+    },
+    {
+        "id": "0801",
+        "artist_name": "BTS",
+        "music_name": "FIRE",
+        "time": "270"
+    },
+    {
+        "id": "0802",
+        "artist_name": "スキマスイッチ",
+        "music_name": "奏",
+        "time": "331"
+    },
+    {
+        "id": "0803",
+        "artist_name": "Charlie Puth",
+        "music_name": "See You Again",
+        "time": "331"
+    },
+    {
+        "id": "0804",
+        "artist_name": "吉澤嘉代子",
+        "music_name": "サービスエリア",
+        "time": "230"
+    },
+    {
+        "id": "0805",
+        "artist_name": "森山直太朗",
+        "music_name": "どこもかしこも駐車場",
+        "time": "320"
+    },
+    {
+        "id": "0806",
+        "artist_name": "Saucy Dog",
+        "music_name": "シンデレラボーイ",
+        "time": "320"
+    },
+    {
+        "id": "0807",
+        "artist_name": "変態紳士クラブ",
+        "music_name": "YOKAZE",
+        "time": "269"
+    },
+    {
+        "id": "0808",
+        "artist_name": "少女時代",
+        "music_name": "MR.TAXI",
+        "time": "213"
+    },
+    {
+        "id": "0809",
+        "artist_name": "清水翔太",
+        "music_name": "花束のかわりにメロディーを",
+        "time": "330"
+    },
+    {
+        "id": "0810",
+        "artist_name": "Mr.Children",
+        "music_name": "Tomorrow never knows",
+        "time": "269"
+    },
+    {
+        "id": "0811",
+        "artist_name": "少女時代",
+        "music_name": "MR.TAXI",
+        "time": "213"
+    },
+    {
+        "id": "0812",
+        "artist_name": "藤井風",
+        "music_name": "きらり",
+        "time": "320"
+    },
+    {
+        "id": "0814",
+        "artist_name": "AKB48",
+        "music_name": "365日の紙飛行機",
+        "time": "303"
+    },
+    {
+        "id": "0815",
+        "artist_name": "平浩二",
+        "music_name": "バス・ストップ",
+        "time": "202"
+    },
+    {
+        "id": "0816",
+        "artist_name": "Back number",
+        "music_name": "水平線",
+        "time": "310"
+    },
+    {
+        "id": "0817",
+        "artist_name": "三代目 J Soul Brothers",
+        "music_name": "THE Sharehappi",
+        "time": "320"
+    },
+    {
+        "id": "0818",
+        "artist_name": "かっきー & アッシュポテト",
+        "music_name": "スイヘイリーベ ～魔法の呪文～",
+        "time": "247"
+    },
+    {
+        "id": "0819",
+        "artist_name": "浜田省吾",
+        "music_name": "パーキング・メーターに気をつけろ！",
+        "time": "280"
+    },
+    {
+        "id": "0820",
+        "artist_name": "LiSA",
+        "music_name": "炎",
+        "time": "300"
+    },
+    {
+        "id": "0821",
+        "artist_name": "JUDY AND MARY ",
+        "music_name": "自転車",
+        "time": "320"
+    }
+]

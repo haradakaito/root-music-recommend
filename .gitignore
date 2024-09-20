@@ -1,0 +1,9 @@
+# __MACOSX
+**/__MACOSX/**
+
+# api
+**/api/**
+
+# json
+package-lock.json
+package.json
