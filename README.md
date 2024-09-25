@@ -7,3 +7,4 @@
 ## 開発環境
 - Vue.js
 - NAVITIME API
+- Spotify API（予定）
